@@ -1,0 +1,105 @@
+﻿Category,Main Section,Subsection
+Exterior,Roofing,Repairs
+Exterior,Roofing,Replacement
+Exterior,Siding,Repairs
+Exterior,Siding,Replacement
+Exterior,Masonry,Repairs
+Exterior,Masonry,Re pointing
+Exterior,Landscaping,Installation
+Exterior,Landscaping,Maintenance
+Exterior,Gutters and Downspouts,Repairs
+Exterior,Gutters and Downspouts,Replacement
+Exterior,Windows,Repairs
+Exterior,Windows,Replacement
+Exterior,Exterior Doors,Repairs
+Exterior,Exterior Doors,Replacement
+Exterior,Porches and Decks,Repairs
+Exterior,Porches and Decks,Rebuilding
+Exterior,Fences,Repairs
+Exterior,Fences,Replacement
+Exterior,Driveways and Walkways,Repairs
+Exterior,Driveways and Walkways,Resurfacing
+Exterior,Exterior Painting,Execution
+Exterior,Foundation Repairs,Repairs
+Exterior,Garage Repairs,Repairs
+Exterior,Chimney Repairs,Repairs
+Interior,Walls,Repairs
+Interior,Walls,Painting
+Interior,Floors,Repairs
+Interior,Floors,Refinishing
+Interior,Ceilings,Repairs
+Interior,Ceilings,Painting
+Interior,Interior Doors,Repairs
+Interior,Interior Doors,Replacement
+Interior,Kitchen Cabinets,Repairs
+Interior,Kitchen Cabinets,Replacement
+Interior,Kitchen Countertops,Repairs
+Interior,Kitchen Countertops,Replacement
+Interior,Kitchen Appliances,Repairs
+Interior,Kitchen Appliances,Replacement
+Interior,Bathroom Cabinets,Repairs
+Interior,Bathroom Cabinets,Replacement
+Interior,Bathroom Countertops,Repairs
+Interior,Bathroom Countertops,Replacement
+Interior,Bathroom Tiles,Repairs
+Interior,Bathroom Tiles,Replacement
+Interior,Built-in Furniture,Repairs
+Interior,Built-in Furniture,Replacement
+Interior,Stairs,Repairs
+Interior,Stairs,Refinishing
+Interior,Insulation,Installation
+Interior,Insulation,Replacement
+Interior,Trim and Molding,Repairs
+Interior,Trim and Molding,Replacement
+Interior,Hardware,Repairs
+Interior,Hardware,Replacement
+Interior,Closets,Repairs
+Interior,Closets,Reorganization
+Interior,Fireplace,Repairs
+Interior,Fireplace,Refacing
+MEP,Mechanical - Furnace/Boiler,Repairs
+MEP,Mechanical - Furnace/Boiler,Replacement
+MEP,Mechanical - Air Conditioning Unit,Repairs
+MEP,Mechanical - Air Conditioning Unit,Replacement
+MEP,Mechanical - Ductwork,Repairs
+MEP,Mechanical - Ductwork,Replacement
+MEP,Mechanical - Ventilation Fans,Repairs
+MEP,Mechanical - Ventilation Fans,Replacement
+MEP,Mechanical - Thermostats,Repairs
+MEP,Mechanical - Thermostats,Replacement
+MEP,Electrical - Wiring,Repairs
+MEP,Electrical - Wiring,Upgrades
+MEP,Electrical - Electrical Panel,Repairs
+MEP,Electrical - Electrical Panel,Replacement
+MEP,Electrical - Outlets and Switches,Repairs
+MEP,Electrical - Outlets and Switches,Replacement
+MEP,Electrical - Lighting Fixtures,Repairs
+MEP,Electrical - Lighting Fixtures,Replacement
+MEP,Electrical - Smoke Detectors,Repairs
+MEP,Electrical - Smoke Detectors,Replacement
+MEP,Electrical - Security Systems,Repairs
+MEP,Electrical - Security Systems,Installation
+MEP,Plumbing - Plumbing Pipes,Repairs
+MEP,Plumbing - Plumbing Pipes,Replacement
+MEP,Plumbing - Water Heater,Repairs
+MEP,Plumbing - Water Heater,Replacement
+MEP,Plumbing - Sump Pump,Repairs
+MEP,Plumbing - Sump Pump,Replacement
+MEP,Plumbing - Septic System,Repairs
+MEP,Plumbing - Septic System,Maintenance
+MEP,Plumbing - Plumbing Fixtures,Repairs
+MEP,Plumbing - Plumbing Fixtures,Replacement
+MEP,Plumbing - Drainage Systems,Repairs
+MEP,Plumbing - Drainage Systems,Replacement
+Others,Demolition and Debris Removal,Execution
+Others,Permits and Fees,Processing
+Others,Inspections,Execution
+Others,Pest Control,Execution
+Others,Fire Safety Systems,Installation
+Others,Fire Safety Systems,Repairs
+Others,Accessibility Modifications,Installation
+Others,Energy Efficiency Upgrades,Installation
+Others,Structural Repairs,Repairs
+Others,Hazardous Material Abatement,Removal
+Others,Mold Remediation,Removal
+Others,Miscellaneous Repairs,Repairs

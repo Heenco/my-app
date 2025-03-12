@@ -670,7 +670,7 @@ body {
 
 /* Customize geocoder appearance */
 .mapboxgl-ctrl-geocoder {
-  min-width: 300px;
+  min-width: 400px;
   font-family: inherit;
 }
 
